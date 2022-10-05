@@ -1,8 +1,6 @@
 # Seg2900Winners-
 
-Sarra Sassi
-<html>
-  <body>
-    <h1>Testing</h1>
-    <p>Hello, Welcome to our website</p>
-  </html>
+Company name :
+Product name :
+Student names : Alvin-Thomas Tran, Sarra Sassi, Ouyi Xu, Gamelle Megantche Kamga, Moïse Kenge Ngoyi
+Product description : 
