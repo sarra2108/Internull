@@ -3,7 +3,7 @@
 Company name : <br>
 Product name : <br>
 Student names : Alvin-Thomas Tran, Sarra Sassi, Ouyi Xu, Gamelle Megantche Kamga, Moïse Kenge Ngoyi <br>
-Product description : 
+Product description : <br>
 -The idea consists of having an app that allows international students to find properties to live in from their home country before even coming their desired country <br> 
 -Targeted towards the rich and middle Class. <br>
 -The app would allow users to receive real time info about the property : <br>
