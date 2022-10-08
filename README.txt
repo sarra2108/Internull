@@ -11,3 +11,4 @@ Product description :
 -It would also show the price of rent for the property in their desired currency, using real-time info from Foreign Exchange Market 
 -Properties would be rated from green, yellow or red depending on various criterias such as the ratings of people, the proximity of the property to amenities (entertainment, grocery stores, etc), the inside of the property, and other factors 
 -The app or website will offer personalized properties to each user depending on their needs and wants (ex. an international student who wants to live in an area close to bars and nightclubs will get more results of properties that are near bars and nightclubs) 
+test
