@@ -1,7 +1,5 @@
-Internull
-
-Company name : Internull <br>
-Product name : <br>
+Company name : Internull Inc <br>
+Product name : Internull <br>
 Student names : Alvin-Thomas Tran, Sarra Sassi, Ouyi Xu, Gamelle Megantche Kamga, Moïse Kenge Ngoyi <br>
 Product description : <br>
 -The idea consists of having an app that allows international students to find properties to live in from their home country before even coming their desired country <br> 
